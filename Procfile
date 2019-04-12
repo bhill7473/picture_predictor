@@ -1,1 +1,1 @@
-web: gunicorn picture_predictor.app:app
+web: gunicorn app:app
